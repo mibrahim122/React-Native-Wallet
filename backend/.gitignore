@@ -1,0 +1,12 @@
+# Backend Secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Debugging and production build logs
+logs
+*.log
+npm-debug.log*
+dist/
+build/
